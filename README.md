@@ -1,3 +1,6 @@
+https://handsons.doorkeeper.jp/events/94502
+
+<!--
 # mruby-myuname   [![Build Status](https://travis-ci.org/tsuka05/mruby-myuname.svg?branch=master)](https://travis-ci.org/tsuka05/mruby-myuname)
 Myuname class
 ## install by mrbgems
@@ -25,3 +28,4 @@ p t.bye
 ## License
 under the MIT License:
 - see LICENSE file
+-->
