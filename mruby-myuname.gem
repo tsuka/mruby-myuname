@@ -1,0 +1,7 @@
+name: mruby-myuname
+description: Myuname class
+author: Akihito Tsukamoto
+website: https://github.com/tsuka05/mruby-myuname
+protocol: git
+repository: https://github.com/tsuka05/mruby-myuname.git
+license: MIT
